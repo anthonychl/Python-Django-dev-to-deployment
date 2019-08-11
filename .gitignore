@@ -1,0 +1,8 @@
+.vscode/
+__pycache__/
+/**/__pycache__/
+/**/migrations/
+*.png
+*.jpg
+*.jpeg
+*.sqlite
